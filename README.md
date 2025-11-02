@@ -3,6 +3,8 @@ GT Bioinformatics Project #1
 
 Pipeline to sample data from dataset contains Alzheimer's and healthy patients (in order to stay under RAM limit), preprocess, cluster, and use Leiden clusters to determine cell type using external reference to match top 10 marker genes for each cluster to a cell type
 
+Uses Python with ScanPy, Pandas, NumPy, Sci-kit, and Matplotlib 
+
 Findings:
 
  - Significant changes in oligodendrocyte, microglia and astrocyte marker genes across AD and CT (control/healthy) patients
