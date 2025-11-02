@@ -5,6 +5,10 @@ Pipeline to sample data from dataset contains Alzheimer's and healthy patients (
 
 Uses Python with ScanPy, Pandas, NumPy, Sci-kit, and Matplotlib 
 
+To Run Code:
+ - Ensure data-combiner file is run first, it samples the data used for analysis and generates data file used by the other notebook for analysis
+ - Data file will be added to main directory in user's Google Drive
+
 Findings:
 
  - Significant changes in oligodendrocyte, microglia and astrocyte marker genes across AD and CT (control/healthy) patients
