@@ -16,5 +16,3 @@ Findings:
  - For visual representations, using varying principal components is required to ensure all variations between groups are seen
 
 Dataset Link: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE175814
-
-Presentation Link: https://docs.google.com/presentation/d/1LcLx9yly7stEnPzTImVlG45OoZ1Vm5J3-1LTd_RqVIM/edit?usp=sharing
